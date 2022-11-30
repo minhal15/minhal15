@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋, I'm Mohamed Minhal
+
+3rd Year CS @ TMU (Ryerson)
 
 <!--
 **minhal15/minhal15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
