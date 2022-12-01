@@ -9,7 +9,7 @@ Hi, I'm Minhal 🦾! I'm have many interest in programming, mainly Front End dev
 
 - 📫 Email me: **m15hassan@ryerson.ca**
 
-- 👨🏻‍💼 Linkedin: [linkedin.in/mohamed-minhal-ali/](https://www.linkedin.com/in/richard-marquez-2001/](https://www.linkedin.com/in/mohamed-minhal-ali/))
+- 👨🏻‍💼 Linkedin: [linkedin.in/mohamed-minhal-ali/](https://www.linkedin.com/in/mohamed-minhal-ali/)
 
 <h3>What I'm currently doing:</h3>
 
