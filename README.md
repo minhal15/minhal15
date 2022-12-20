@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=richardmarquez2001&label=Profile%20views&color=0e75b6&style=flat" alt="richardmarquez2001" /> </p>
 
-Hi, I'm Minhal 🦾! I'm have many interest in programming, mainly Front End development with React.js and doing data stuff with Python. I'm down to learn more on UI/UX design and have some experience with Figma.
+Hi, I'm Minhal 🦾! I have many interest in programming, mainly Front End development with React.js and doing data stuff with Python. I'm currently learning more on UI/UX design and have some experience with Figma. Check out my projects to get an idea of technologies I have worked with.
 
 <h3>You can reach out to me here:</h3>
 
